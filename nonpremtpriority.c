@@ -1,6 +1,5 @@
 // Non-Preemptive Priority Scheduling Algorithm in C    
-// We are assuming that before completion of a process, the next process is arrived.
-
+// We are assuming that before completion of a process, the next process is arrived. 
 #include<stdio.h>
 void main()
 {
